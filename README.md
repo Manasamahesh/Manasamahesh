@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://github.com/user-attachments/assets/add996cc-2738-4cfc-850f-b80c81a2731c)
 
 
 
