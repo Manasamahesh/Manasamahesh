@@ -5,7 +5,8 @@ I'm Manasa, Developer/Analyst.
 <!--
  t/👩‍🏫 Avid Book Reader from 🇮🇳**Chennai,India** Currently studing in 🇺🇸**Buffalo**. 
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 **Manasamahesh/Manasamahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,15 +20,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### GitHub Stats:
+# 📊 GitHub Stats:
 ![Manasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manasamahesh&show_icons=true&theme=tokyonight)
 
-![Screenshot (2658)](https://github.com/user-attachments/assets/7dbd30af-a935-4f40-8410-a0feb6b41d17)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manasamahesh&theme=cobalt2&hide_border=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasamahesh&layout=donut)](https://github.com/Manasamahesh/github-readme-stats)
 
 ### GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Manasamahesh)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Manasamahesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=Manasamahesh&icon=0&color=9)](https://visitcount.itsvg.in)
+
+
 
 
 
