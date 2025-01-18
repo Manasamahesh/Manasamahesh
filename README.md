@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey! Nice to see you. 👋👩🏻‍💻 
+
+I'm Manasa, Developer/Analyst/👩‍🏫 Avid Book Reader from 🇮🇳**Chennai,India** Currently studing in 🇺🇸**Buffalo**. 
 
 <!--
 **Manasamahesh/Manasamahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
