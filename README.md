@@ -2,8 +2,9 @@
 Welcome to My page.
 
 I'm Manasa, Developer/Analyst.
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="isrealodejobi" />
-</p>
+
+ <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="isrealodejobi" />
+
 <!--
  t/👩‍🏫 Avid Book Reader from 🇮🇳**Chennai,India** Currently studing in 🇺🇸**Buffalo**. 
 
