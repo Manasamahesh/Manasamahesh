@@ -1,8 +1,11 @@
 ## Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> ! Nice to see you.👩🏻‍💻 
 Welcome to My page.
 
-I'm Manasa, Developer/Analyst.
-
+<p align="left">
+<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20Manasa,Developer/Analyst.&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+</a>
+</p>
+ 
  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="isrealodejobi" />
 
 <!--
