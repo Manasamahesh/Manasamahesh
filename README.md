@@ -79,12 +79,16 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum%20-%231572B6.svg?&style=for-the-badge&logo=Ethereum&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hyperledger-Fabric%20-%231572B6.svg?&style=for-the-badge&logo=Hyperledger-Fabric&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAML%20-%231572B6.svg?&style=for-the-badge&logo=DAML&logoColor=black"/>
 </div>
 
 <br/>
 
 ### and more >w<
+-->
 
+## My Skills
 ![DAML](https://img.shields.io/badge/-DAML-%231d365d?style=flat-square&logo=DAML&logoColor=ffffff)
 ![Etherum](https://img.shields.io/badge/-Etherum-%23CC6699?style=flat-square&logo=Etherum&logoColor=ffffff)
 ![HyperledgerFabric](https://img.shields.io/badge/-HyperledgerFabric-%23333333?style=flat-square&logo=HyperledgerFabric)
@@ -103,11 +107,11 @@ Here are some ideas to get you started:
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
+![Railway](https://img.shields.io/badge/-GoogleCoLab-%230B0D0E?style=flat-square&logo=GoogleColab)
 ![Spyder-IDE](https://img.shields.io/badge/Spyder%20IDE-8C0000.svg?style=for-the-badge&logo=Spyder-IDE&logoColor=white)
 
 <br/>
--->
+
 
 
 
