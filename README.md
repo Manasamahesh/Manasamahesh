@@ -94,7 +94,13 @@ Here are some ideas to get you started:
 ![HyperledgerFabric](https://img.shields.io/badge/-HyperledgerFabric-%23333333?style=flat-square&logo=HyperledgerFabric)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=ReactJS)
-![NextJS](https://img.shields.io/badge/-NextJS-%23000000?style=flat-square&logo=NextJS&&logoColor=48B0F1)
+![NextJS](https://img.shields.io/badge/-NextJS-%23000000?style=flat-square&logo=NextJS&&logoColor=48B0F1
+
+![SQL](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=PostgresSQL)
+![NodeJS](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=NodesJS
+![Docker](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=Kubernetes)
+![hashkell](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=hashkell)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Google-Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
@@ -107,7 +113,7 @@ Here are some ideas to get you started:
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
-![Railway](https://img.shields.io/badge/-GoogleCoLab-%230B0D0E?style=flat-square&logo=GoogleColab)
+![GoogleCoLAb](https://img.shields.io/badge/-GoogleCoLab-%230B0D0E?style=flat-square&logo=GoogleColab)
 ![Spyder-IDE](https://img.shields.io/badge/Spyder%20IDE-8C0000.svg?style=for-the-badge&logo=Spyder-IDE&logoColor=white)
 
 <br/>
