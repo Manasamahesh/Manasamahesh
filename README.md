@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### and more >w<
--->
+
 
 ## My Skills
 ![DAML](https://img.shields.io/badge/-DAML-%231d365d?style=flat-square&logo=DAML&logoColor=ffffff)
@@ -95,12 +95,13 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=ReactJS)
 ![NextJS](https://img.shields.io/badge/-NextJS-%23000000?style=flat-square&logo=NextJS&&logoColor=48B0F1
-
+<!--
 ![SQL](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=PostgresSQL)
 ![NodeJS](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=NodesJS
 ![Docker](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=Kubernetes)
 ![hashkell](https://img.shields.io/badge/-ReactJS-%23333333?style=flat-square&logo=hashkell)
+-->
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Google-Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
