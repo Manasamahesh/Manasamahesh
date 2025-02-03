@@ -1,7 +1,7 @@
 ## Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> ! Nice to see you.👩🏻‍💻 
 Welcome to My page.
 
- I am Manasa, Developer/Analyst.
+ I am Manasa, Fintech Developer/Analyst.
 
  
  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="isrealodejobi" />
