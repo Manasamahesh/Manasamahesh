@@ -92,10 +92,10 @@ Here are some ideas to get you started:
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 -->
 ## My Skills
-![DAML](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![DAML](https://img.shields.io/badge/daml-008DE4?style=for-the-badge&logo=daml&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![HyperledgerFabric](https://img.shields.io/badge/hyperledgerfabric-2F3134?style=for-the-badge&logo=hyperledgerfabric&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/-NextJS-%23000000?style=for-the-badge&logo=next.js&&logoColor=48B0F1)
