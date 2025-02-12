@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 -->
-## Things I am interested in and I do 
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Things I am interested in and I do 
  ### Blockchain </br> 
 ![DAML](https://img.shields.io/badge/daml-008DE4?style=for-the-badge&logo=daml&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
