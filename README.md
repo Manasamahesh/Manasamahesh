@@ -178,6 +178,11 @@ Here are some ideas to get you started:
 
 <br/>
 
+##  💫 My Perspective:
+
+![1738090875816](https://github.com/user-attachments/assets/9d319303-a2ca-497c-9e0a-647b8bc3c9ce)
+
+
 
 
 
