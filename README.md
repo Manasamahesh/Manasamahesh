@@ -180,7 +180,8 @@ Here are some ideas to get you started:
 
 ##  💫 My Perspective:
 
-![1738090875816](https://github.com/user-attachments/assets/9d319303-a2ca-497c-9e0a-647b8bc3c9ce)
+![2](https://github.com/user-attachments/assets/fb5a9152-be41-499c-bdfc-80dcc50324b4)
+
 
 
 
