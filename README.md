@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![HyperledgerFabric](https://img.shields.io/badge/hyperledgerfabric-2F3134?style=for-the-badge&logo=hyperledgerfabric&logoColor=white)
-
+![Solana](https://img.shields.io/badge/solana-2F3134?style=for-the-badge&logo=solana&logoColor=white)
  ### Front End </br>
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
